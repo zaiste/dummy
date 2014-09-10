@@ -1,2 +1,4 @@
 dummy
 =====
+
+MIT License
